@@ -55,7 +55,7 @@ Builder/operator focused on Web3 execution systems, mint tooling, automation, mo
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisnudlazerr&show_icons=true&theme=dark&bg_color=000000&title_color=ff174d&text_color=ffffff&icon_color=ff174d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuriare7Rz&show_icons=true&theme=dark&bg_color=000000&title_color=ff174d&text_color=ffffff&icon_color=ff174d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wisnudlazerr&bg_color=000000&color=ff174d&line=ff174d&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuriare7Rz&bg_color=000000&color=ff174d&line=ff174d&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </div>
