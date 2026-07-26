@@ -10,7 +10,7 @@
 
 ---
 
-## Wisnu DLazer
+## Kuriare7Rz
 
 Builder/operator focused on Web3 execution systems, mint tooling, automation, monitoring, and practical AI agents.
 
