@@ -1,33 +1,38 @@
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Wisnu DLazer / HitamLegam banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Kuriare7Rz — SHADOW · AI · WEB3" width="100%" />
 
   <br />
   <br />
 
-  <a href="https://hitamlegam.top"><img src="https://img.shields.io/badge/hitamlegam.top-000000?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=000000&color=ff174d" /></a>
+  <a href="https://x.com/Kuriare7Rz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=8B5CF6" /></a>
   <a href="https://t.me/wisnudlazer"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111&color=26A5E4" /></a>
+  <a href="https://discord.gg/4txhucSua2"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111&color=5865F2" /></a>
 </div>
 
 ---
 
 ## Kuriare7Rz
 
-Builder/operator focused on Web3 execution systems, mint tooling, automation, monitoring, and practical AI agents.
+**Early-phase onchain operator.** New chains, testnets, mint automation, and the
+signal tooling that spots things before the timeline does.
 
-- **Web3 ops:** EVM mint workflows, allowlist/FCFS tooling, wallet automation, transaction monitoring
-- **Automation:** bots, dashboards, alerting, Discord/Telegram utilities, temp-mail surfaces
-- **AI tooling:** operator assistants, workflow agents, signal triage, research helpers
-- **Infra:** VPS ops, deployments, API integrations, observability, fast iteration loops
+> show up early matters.
+
+- **Signal tooling:** X follow-trackers, wallet intel, launch monitoring, Discord alerting
+- **Mint ops:** SeaDrop/OpenSea automation, FCFS/allowlist workflows, multi-wallet execution
+- **Early-phase ops:** testnet farming, new-chain exploration, protocol recon
+- **AI agents:** operator assistants, research helpers, workflow automation
 
 ---
 
-## Active Surfaces
+## Projects
 
-| Surface | Link | Notes |
-| --- | --- | --- |
-| HitamLegam | [hitamlegam.top](https://hitamlegam.top) | Web3 execution desk + tools hub |
-| Temp Mail | [mail.hitamlegam.top](https://mail.hitamlegam.top) | Disposable inbox utility |
-| Discord | [Join](https://discord.gg/4txhucSua2) | Community / ops channel |
+| Project | What it does |
+| --- | --- |
+| [rouge — X following tracker](https://github.com/Kuriare7Rz/rouge-x-following-tracker) | Watches target accounts' following lists and fires Discord webhooks on new early-stage follows. Multi-session rotation, drift guard, triple dedupe. Node.js + PM2, zero dependencies. |
+| [seadrop-noir-bot](https://github.com/Kuriare7Rz/seadrop-noir-bot) | OpenSea SeaDrop mint bot (Telegram-controlled). Multi-wallet, snipe mode, RPC ranking, proxy rotation, stage-aware scheduled mints. |
+| [EVM-Mint-BOT](https://github.com/Kuriare7Rz/EVM-Mint-BOT) | EVM FCFS / whitelist NFT mint bot template for burner-wallet ops. |
+| [viola-selfie](https://github.com/Kuriare7Rz/viola-selfie) | OpenClaw skill for AI selfie generation via 9Router. |
 
 ---
 
@@ -42,20 +47,20 @@ Builder/operator focused on Web3 execution systems, mint tooling, automation, mo
 ## Current Focus
 
 ```txt
-> ship useful surfaces
-> remove noise
+> show up early
+> ship the tooling
 > keep receipts
 ```
 
-- EVM mint bot tooling
-- Signal feeds and monitoring
+- Running the rouge tracker fleet on live targets
+- Mint automation for upcoming drops
+- Early-phase intel: new chains, testnets, pre-launch protocols
 - AI-assisted ops workflows
-- Lightweight dashboards and utilities
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuriare7Rz&show_icons=true&theme=dark&bg_color=000000&title_color=ff174d&text_color=ffffff&icon_color=ff174d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuriare7Rz&show_icons=true&theme=dark&bg_color=000000&title_color=8B5CF6&text_color=ffffff&icon_color=8B5CF6&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuriare7Rz&bg_color=000000&color=ff174d&line=ff174d&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuriare7Rz&bg_color=000000&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </div>
