@@ -32,6 +32,7 @@ signal tooling that spots things before the timeline does.
 | [rouge — X following tracker](https://github.com/Kuriare7Rz/rouge-x-following-tracker) | Watches target accounts' following lists and fires Discord webhooks on new early-stage follows. Multi-session rotation, drift guard, triple dedupe. Node.js + PM2, zero dependencies. |
 | [vert — WL eligibility checker](https://github.com/Kuriare7Rz/vert-wl-checker) | Checks all your wallets against drop allowlists in one matrix: public lists, on-chain SeaDrop reads, and OpenSea SIWE + eligibility queries. |
 | [seadrop-noir-bot](https://github.com/Kuriare7Rz/seadrop-noir-bot) | OpenSea SeaDrop mint bot (Telegram-controlled). Multi-wallet, snipe mode, RPC ranking, proxy rotation, stage-aware scheduled mints. |
+| [blanc — NFT wallet tracker](https://github.com/Kuriare7Rz/blanc-nft-wallet-tracker) | Real-time Discord alerts when tracked wallets mint, buy, sell, or sweep NFTs — webhook-driven, on-chain classified. |
 | [EVM-Mint-BOT](https://github.com/Kuriare7Rz/EVM-Mint-BOT) | EVM FCFS / whitelist NFT mint bot template for burner-wallet ops. |
 | [viola-selfie](https://github.com/Kuriare7Rz/viola-selfie) | OpenClaw skill for AI selfie generation via 9Router. |
 
