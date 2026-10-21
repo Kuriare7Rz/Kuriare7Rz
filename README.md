@@ -31,7 +31,7 @@ signal tooling that spots things before the timeline does.
 | --- | --- |
 | [rouge — X following tracker](https://github.com/Kuriare7Rz/rouge-x-following-tracker) | Watches target accounts' following lists and fires Discord webhooks on new early-stage follows. Multi-session rotation, drift guard, triple dedupe. Node.js + PM2, zero dependencies. |
 | [vert — WL eligibility checker](https://github.com/Kuriare7Rz/vert-wl-checker) | Checks all your wallets against drop allowlists in one matrix: public lists, on-chain SeaDrop reads, and OpenSea SIWE + eligibility queries. |
-| [seadrop-noir-bot](https://github.com/Kuriare7Rz/seadrop-noir-bot) | OpenSea SeaDrop mint bot (Telegram-controlled). Multi-wallet, snipe mode, RPC ranking, proxy rotation, stage-aware scheduled mints. |
+| [seadrop-noir-bot](https://github.com/Kuriare7Rz/seadrop-noir-bot) | OpenSea SeaDrop mint bot (Telegram-controlled). Multi-wallet, snipe mode, RPC ranking, proxy rotation, stage-aware scheduled mints — now with `/wl`, a per-wallet eligibility checker (OpenSea + SeaDrop). V2 upgrade of seadrop_nft_minter by @Taqiyaoezanik. |
 | [blanc — NFT wallet tracker](https://github.com/Kuriare7Rz/blanc-nft-wallet-tracker) | Real-time Discord alerts when tracked wallets mint, buy, sell, or sweep NFTs — webhook-driven, on-chain classified. |
 | [jaune — EVM mint sniper](https://github.com/Kuriare7Rz/jaune-evm-mint-bot) | OpenSea raw-transaction sniper for whitelist/FCFS mints: polls for the released mint tx, then fires a same-nonce gas ladder. |
 | [violet-selfie](https://github.com/Kuriare7Rz/violet-selfie) | AI companion skill for my OpenClaw/Hermes agents — after a long day hunting onchain, Violet is here to cheer you up. Powered by 9Router image models. |
